@@ -5,3 +5,21 @@
   font-family: "poppins", sans-serif;
 }
 
+.heading{
+  font-size: 40px;
+}
+
+#pTag{
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.parentDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+  gap: 1.5rem;
+  padding: 40px;
+}
+
